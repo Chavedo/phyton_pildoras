@@ -29,3 +29,6 @@ miCoche2=Coche()
 print(miCoche2.arrancar(False))
 miCoche2.ruedas=2
 miCoche2.estado()
+
+
+print("comoandas")
